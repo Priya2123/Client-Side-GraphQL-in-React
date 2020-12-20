@@ -26,7 +26,7 @@ const client = new ApolloClient({
 // }
 // `
 
-client.query({query})
-    .then(result => console.log(result))
+// client.query({query})
+//     .then(result => console.log(result))
 
 export default client;
