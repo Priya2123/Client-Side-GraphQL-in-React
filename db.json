@@ -1,1 +1,22 @@
-{}
+{
+    "pet":[
+        {
+            "id": "bsdi2eo3h09ey",
+            "type": "DOG",
+            "name": "Lucy",
+            "createdAt": "biweh89t320023674"
+        },
+        {
+            "id": "bsdi2eo3h09ey",
+            "type": "DOG",
+            "name": "Bleh",
+            "createdAt": "biweh89t320023674"
+        },
+        {
+            "id": "bsdi2eo3h09ey",
+            "type": "CAT",
+            "name": "Lucy",
+            "createdAt": "biweh89t320023674"
+        }
+    ]
+}
